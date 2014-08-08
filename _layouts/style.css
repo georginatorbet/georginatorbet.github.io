@@ -39,3 +39,8 @@ list-style: none;
 padding:0px 28px 0px 12px;
 font-variant:small-caps;
 }
+
+#footer {
+  font-size:small;
+  text-align:center;
+}
