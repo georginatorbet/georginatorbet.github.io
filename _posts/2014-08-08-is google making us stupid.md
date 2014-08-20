@@ -1,26 +1,26 @@
-﻿---
+---
 layout: post
 title: "Is Google Making Us Stpuid?"
 date: 2014-08-08
 ---
 Is Google making us stupid? This topic has been hotly de-
 bated among psychologists, computer scientists, concerned 
-parents, and teachers since ﬁrst popularized by a 2008 ar-
+parents, and teachers since ?rst popularized by a 2008 ar-
 ticle in  The Atlantic. Particularly popular among the tab-
 loid press, worries over how computer technology and the 
 internet are changing our minds and brains have given rise 
 to some breathtaking headlines, most notably in The Daily 
 Mail: "Modern technology is changing the way our brains 
-work, says neuroscientist"; "Facebook and internet ‘can re-
-wire your brain and shorten attention span’"; "Internet ‘re-
-wires our brains’ and makes teenagers vulnerable to mental 
-illness"; "Too much internet use ‘can damage teenagers’ 
-brains’." Scary stuff indeed.
-A more scientiﬁcally robust attempt to quantify this effect 
+work, says neuroscientist"; "Facebook and internet can re-
+wire your brain and shorten attention span"; "Internet re-
+wires our brains and makes teenagers vulnerable to mental 
+illness"; "Too much internet use can damage teenagers' 
+brains." Scary stuff indeed.
+A more scienti?cally robust attempt to quantify this effect 
 is provided by a recent study by Sparrow et al. They have 
-attempted to demonstrate empirically how the “Google Ef-
-fect” could impact on memory, using a series of experiments 
-comparing subjects’ memories for facts when they believed 
+attempted to demonstrate empirically how the "Google Ef-
+fect" could impact on memory, using a series of experiments 
+comparing subjects� memories for facts when they believed 
 the information had been recorded on a computer vs. when 
 they believed it had not. The authors found strong effects 
 showing that people remembered less when they believed 
@@ -29,7 +29,7 @@ bered more when they believed information that they typed
 into a computer had been erased, and that if they were unsure 
 about a piece of information they were primed to look on a 
 computer for the answer. Somewhat less clearly, but still sig-
-niﬁcant, was a ﬁnding that subjects may remember where a 
+ni?cant, was a ?nding that subjects may remember where a 
 piece of information was stored more strongly than what the 
 information was.
 These effects show an interesting insight into how mem-
@@ -53,15 +53,15 @@ information that they need? How is the availability of a large
 quantity of information available online any different from 
 the same information being available in a library?
 Fears over the effects of technology on our psyche are not 
-new—every technological development is decried as poten-
+new�every technological development is decried as poten-
 tially dangerous. In 370 BC, Socrates warned of the dangers 
 of writing: "this discovery of yours will create forgetfulness 
-in the learners’ souls, because they will not use their memo-
+in the learners� souls, because they will not use their memo-
 ries . . . you give your disciples not truth, but only the sem-
 blance of truth; they will be hearers of many things and will 
 have learned nothing."
 
 Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on 
 memory: Cognitive consequences of having information at 
-our ﬁngertips. Science, 333 (6043): 776–778.
+our ?ngertips. Science, 333 (6043): 776�778.
 
