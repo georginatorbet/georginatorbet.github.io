@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Is Google making us stupid?"
+title: "Does playing video games change the brain?"
 date: 2014-12-10
 ---
 A conference presentation by Wang et al. has recently garnered a lot of media attention, suggesting that playing violent video games can alter brain function and could lead to violent behavior. Given the increasing amount of time that young people in particular are spending using computers and playing games, it is important for scientists to consider how this could be affecting social interactions. Is controlling a game character who shots other people detrimental to one’s empathy? Could it encourage such behaviors away from the computer and in the real world? What are people learning from games, and are these lessons conducive to a stable society? A recent “Perspectives” piece in Nature Review. Neuroscience (Bavelier et al., 2011) saw a number of researchers expressing concern over the effects of video games and calling for further study.
