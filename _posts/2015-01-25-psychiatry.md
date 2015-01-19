@@ -11,9 +11,7 @@ While raising important objections to an overreliance on reductionism in psychia
 
 Other authors have discussed the importance of social factors on mental health (McAlpine & Mechanic, 2010), including objections to the increasing medicalization of everyday life (see David, 2006). Considering the importance of expert opinion in these discussions, it may be that clinicians have a power and a duty to influence the discourse around mental health to reflect these concerns (see Kleinman, 2012). Clinicians have a vital role in forming the paradigms of mental health that are reflected in academic research, medical treatments, and public views. For clinicians to further collaborate with the service user movement, for example, would not only provide a source of new models and data regarding mental health, but also promote a view of clients as equal participants with clinicians, rather than objects of study.
 
-The challenges facing psychiatry are serious and are deserving of serious consideration. The medical model describes just one aspect of the complex interplay of factors that influence mental health outcomes. A collaborative, interdisciplinary approach that incorporates insights from neuroscience, social psychology, and person-centered models would benefit the field, both as an academic discipline and 
-in finding effective way to improve the lives of people with 
-mental health issues.
+The challenges facing psychiatry are serious and are deserving of serious consideration. The medical model describes just one aspect of the complex interplay of factors that influence mental health outcomes. A collaborative, interdisciplinary approach that incorporates insights from neuroscience, social psychology, and person-centered models would benefit the field, both as an academic discipline and in finding effective way to improve the lives of people with mental health issues.
 
 
-Bracken, P., Thomas, P., Timimi, s., asen, e., Behr, G., Beuster, c., et al. (2012).  Psychiatry beyond the current paradigm. British Journal of Psychiatry, 201 (6): 430–434.
+Bracken, P., Thomas, P., Timimi, s., asen, e., Behr, G., Beuster, c., et al. (2012).  Psychiatry beyond the current paradigm. British Journal of Psychiatry, 201 (6): 430-434.
