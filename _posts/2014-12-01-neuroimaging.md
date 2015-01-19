@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: "What do the public and experts think of neuroimaging?"
-date: 2014-12-01
+title: "Psychology and the Replication problem"
+date: 2015-01-10
 ---
 The use of neuroimaging outside of the medical and scientific domains is a frequent topic of interest for both the media and the public. Can brain scans detect early signs of criminality, detect lies, or be used to for more effective advertising and marketing? How do the opinions of the public differ from those of experts? The questionnaire study by Wardlaw et al. has compared the attitudes of the British public and neuroscience researchers on the limitations of neuroimaging and its ethical consequences.
 
