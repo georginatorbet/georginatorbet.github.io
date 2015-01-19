@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Does playing video games change the brain?"
 date: 2014-12-10
