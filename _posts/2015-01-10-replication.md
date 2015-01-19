@@ -17,3 +17,6 @@ What can be done to address this serious problem? First, academic journals shoul
 Ritchie, S. J., Wiseman, R., & French, C. C. (2012).  Replication, replication, replication. The Psychologist, 25 (5): 346-357. 
 
 Yong, E. (2012).  Replication studies: Bad copy.  Nature, 485 (7398): 298-300.
+
+
+This article originally appeared in [Neuropsychoanalysis](http://www.tandfonline.com/loi/rnpa20#.VL0VXCvF98F).

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Does playing video games change the brain?"
 date: 2014-12-10
@@ -25,3 +25,6 @@ scientific objectivity when assessing its effect on our behavior. It is precisel
 Wang, y., hummer, T., Kronenberger, W. G., Mosier, K. M., & Mathews, V. P. (2011). One Week of Violent Video Game 
 Play Alters Prefrontal Activity.  Paper presented at Radiological Society of North America 2011 Scientific Assembly 
 and Annual Meeting, 27 November to 2 December, Chicago IL.
+
+
+This article originally appeared in [Neuropsychoanalysis](http://www.tandfonline.com/loi/rnpa20#.VL0VXCvF98F).

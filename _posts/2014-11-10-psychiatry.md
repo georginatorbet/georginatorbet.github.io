@@ -15,3 +15,6 @@ The challenges facing psychiatry are serious and are deserving of serious consid
 
 
 Bracken, P., Thomas, P., Timimi, s., Asen, e., Behr, G., Beuster, c., et al. (2012).  Psychiatry beyond the current paradigm. British Journal of Psychiatry, 201 (6): 430-434.
+
+
+This article originally appeared in [Neuropsychoanalysis](http://www.tandfonline.com/loi/rnpa20#.VL0VXCvF98F).
