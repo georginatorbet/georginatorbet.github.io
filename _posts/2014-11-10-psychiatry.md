@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Psychiatry beyond the current paradigm"
-date: 2015-01-25
+date: 2014-11-10
 ---
 With the impending publication of the DSM-V and its focus on biological markers for disease, attention has turned once again to the organic basis of psychiatry. Are psychiatric conditions purely brain conditions? Can biological models explain mental health disorders? Should psychiatry be reduced to a clinical neuroscience or neurology? The attempt to rationalize psychiatry by bringing it under medical paradigms of diagnosis, faulty mechanisms, and psychopharmacological intervention has yielded mixed results, and debate continues over whether this approach continues to be useful for clinical settings.
 
@@ -14,4 +14,4 @@ Other authors have discussed the importance of social factors on mental health (
 The challenges facing psychiatry are serious and are deserving of serious consideration. The medical model describes just one aspect of the complex interplay of factors that influence mental health outcomes. A collaborative, interdisciplinary approach that incorporates insights from neuroscience, social psychology, and person-centered models would benefit the field, both as an academic discipline and in finding effective way to improve the lives of people with mental health issues.
 
 
-Bracken, P., Thomas, P., Timimi, s., asen, e., Behr, G., Beuster, c., et al. (2012).  Psychiatry beyond the current paradigm. British Journal of Psychiatry, 201 (6): 430-434.
+Bracken, P., Thomas, P., Timimi, s., Asen, e., Behr, G., Beuster, c., et al. (2012).  Psychiatry beyond the current paradigm. British Journal of Psychiatry, 201 (6): 430-434.
