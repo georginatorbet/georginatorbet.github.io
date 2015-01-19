@@ -14,3 +14,6 @@ Given the public interest in neuroimaging and a desire for high-quality scientif
 
 
 Wardlaw, J. M., O'connell, G., shuler, K., DeWilde, J., Haley, J., Escobar, O. Murray, S., et al. (2011).  "Can it read my mind?" What do the public and experts think of the current (mis)uses of neuroimaging? PLoS ONE, 6 (10): e25829.
+
+
+This article originally appeared in [Neuropsychoanalysis](http://www.tandfonline.com/loi/rnpa20#.VL0VXCvF98F).
