@@ -6,6 +6,6 @@ title: Blog
 	<table>
 
 	  {% for post in site.posts %}
-	    <tr><td style="vertical-align:top; width:105px;">{{ post.date | date_to_string }}</td><td style="padding-bottom:10px"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td></tr>
+	    <tr><td style="vertical-align:top; width:100px;">{{ post.date | date_to_string }}</td><td style="padding-bottom:10px"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td></tr>
 	  {% endfor %}
 	</table>
