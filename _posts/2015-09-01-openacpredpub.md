@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open access: the case for making your research publicly available"
+title: "Open access: avoiding predatory publishers"
 date: 2015-09-01
 ---
 Open access publishing – that is, a system whereby authors pay a fee to a journal to make their research publicly available for anyone to read, for free – has become more and more common in the last years.
