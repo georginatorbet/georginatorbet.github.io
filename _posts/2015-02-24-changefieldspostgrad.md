@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Why and How to Change Fields for Postgraduate Work"
 date: 2015-02-24
