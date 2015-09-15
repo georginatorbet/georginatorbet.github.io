@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Best Open Source Software for Graphing and Plotting"
 date: 2015-02-05
