@@ -1,13 +1,21 @@
-<html><head>
-<script>
-$(document).ready(function() {
-   $('#otherpage').load('https://www.clippings.me/georginatorbet', function() {
-      alert('Load was performed.');
-   });
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(function($){
+	function loadpage(e){
+		$('#contentarea').load(http://www.clippings.me/georginatorbet);
+		e.preventDefault();
+	}
+	$('a[data-ajax]').click(loadpage);
 });
 </script>
 </head>
 <body>
-<div id="otherpage"></div>
+<a data-ajax="true" href="external1.htm">Page 1</a> <a data-ajax="true" href="external2.htm">Page 2</a>
+<div id="contentarea"></div>
 </body>
 </html>
