@@ -1,19 +1,13 @@
 <html><head>
-<style>  
-iframe {
-    border: none;
-    width:1200px;
-    height:600px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    margin: auto;
-}
-</style>
+<script>
+$(document).ready(function() {
+   $('#otherpage').load('https://www.clippings.me/georginatorbet', function() {
+      alert('Load was performed.');
+   });
+});
+</script>
 </head>
 <body>
-<iframe src="https://www.clippings.me/georginatorbet"></iframe>
+<div id="otherpage"></div>
 </body>
 </html>
